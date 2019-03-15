@@ -2,11 +2,15 @@
         font-family: "Aileron UltraLight";
         src: url("Aileron-UltraLight.otf") format("opentype");
       }
-      
+      img {
+        max-width:80%;
+        height:auto;
+        }
       h1 {
         font-family: "Aileron UltraLight";
-        font-size: 100px;
+        font-size: 4em;
         }
       h3 {
-        font-family: "Aileron UltraLight";
+        font-family: "Aileron UltraLight"
+        font-size: 3em;
         }
